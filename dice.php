@@ -1,6 +1,5 @@
 <?php
 
-// さいころクラス
 class Dice {
     protected array $sided;
     protected int $number;
